@@ -1,2 +1,0 @@
-# new-artica
-New-artica

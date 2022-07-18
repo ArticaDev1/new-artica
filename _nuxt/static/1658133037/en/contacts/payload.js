@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/contacts", {data:[{contacts:{data:[{contact_type:"phone",value:"+7 809 999 0000"},{contact_type:"email",value:"mail@artica.art"}]}}],fetch:{},mutations:[]});

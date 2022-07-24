@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/project/national-company-eurasia", {data:[{},{}],fetch:{},mutations:[]});

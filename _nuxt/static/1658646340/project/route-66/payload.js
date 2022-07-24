@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/project/route-66", {data:[{},{}],fetch:{},mutations:[]});

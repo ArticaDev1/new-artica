@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/project/route-66", {data:[{},{}],fetch:{"NuxtNavigation:0":{isFistTime:true}},mutations:[]});

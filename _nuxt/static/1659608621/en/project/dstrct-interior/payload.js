@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/project/dstrct-interior", {data:[{},{}],fetch:{"NuxtNavigation:0":{isFistTime:true}},mutations:[]});

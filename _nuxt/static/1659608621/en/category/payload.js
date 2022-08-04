@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/category", {data:[{},{}],fetch:{"NuxtNavigation:0":{isFistTime:true},"CategoryPage:0":{}},mutations:[["projects\u002FsetProjectsActiveCat",void 0],["projects\u002FsetProjectsByCat",{obj:[]}]]});

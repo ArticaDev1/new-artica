@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/project/national-company-eurasia", {data:[{},{}],fetch:{"NuxtNavigation:0":{isFistTime:true}},mutations:[]});

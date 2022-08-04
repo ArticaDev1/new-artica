@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/project/compass-pools", {data:[{},{}],fetch:{"NuxtNavigation:0":{isFistTime:true}},mutations:[]});

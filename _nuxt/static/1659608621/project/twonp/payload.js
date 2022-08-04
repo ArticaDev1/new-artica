@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/project/twonp", {data:[{},{}],fetch:{"NuxtNavigation:0":{isFistTime:true}},mutations:[]});

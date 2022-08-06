@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en", {data:[{}],fetch:{"NuxtNavigation:0":{isFistTime:true}},mutations:[]});
